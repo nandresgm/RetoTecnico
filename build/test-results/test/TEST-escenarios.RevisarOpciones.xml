@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="escenarios.RevisarOpciones" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-09-29T22:41:23" hostname="DESKTOP-8NO8HD6" time="29.785">
+  <properties/>
+  <testcase name="ImprimirSinDatos" classname="escenarios.RevisarOpciones" time="6.897"/>
+  <testcase name="CancelarConfirmacionIngresoDatos" classname="escenarios.RevisarOpciones" time="5.906"/>
+  <testcase name="CancelarIngresoDatos" classname="escenarios.RevisarOpciones" time="5.67"/>
+  <testcase name="ImprimirConDatos" classname="escenarios.RevisarOpciones" time="5.654"/>
+  <testcase name="CancelarConfirmacion" classname="escenarios.RevisarOpciones" time="5.658"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 18523
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+sep 29, 2019 5:41:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 16128
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+sep 29, 2019 5:41:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 48819
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+sep 29, 2019 5:41:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 13892
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+sep 29, 2019 5:41:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 40606
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+sep 29, 2019 5:41:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
